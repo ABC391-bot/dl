@@ -12,7 +12,7 @@ if my_open:
             time.sleep(0.02)
             roading.progress(i, '正在加载网站页面'+str(i)+'%')
         roading.progress(100, '加载完毕！')
-        st.link_button('进入网站', 'https://o2ub3rtpuaf4q38kicbf2f.streamlit.app/')
+        st.link_button('进入网站', 'https://flycyd-6fvrpcckbxqjvjzfxmghan.streamlit.app/')
 if my_open1:
     st.write('看来这个网站不适合你哟，去别的网站看看吧！')
 
